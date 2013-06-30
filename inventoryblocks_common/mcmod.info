@@ -1,0 +1,19 @@
+[
+{
+  "modid": "IB",
+  "name": "Inventory Blocks",
+  "version": "0.0.1",
+  "mcversion": "1.5.2",
+  "description": "Allows you to access inventory slots with special blocks.",
+  "credits": "Created by Mmmfrieddough",
+  "logoFile": "/gfx/inventoryblocks/Plain-M&Ms-Pile.jpg",
+  "url": "http://www.mod-inventoryblocks.com/",
+  "updateUrl": "",
+  "authors": [ "Mmmfrieddough" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
